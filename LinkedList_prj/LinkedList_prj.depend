@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444236831 source:c:\users\amd\documents\git prj\ds\linked_list\linkedlist_prj\main.c
+	<stdio.h>
+	<stdlib.h>
+
